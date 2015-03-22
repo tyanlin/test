@@ -1,1 +1,1 @@
-System.out.println("test java");
+System.out.println("test java in mac ");
