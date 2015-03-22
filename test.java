@@ -1,1 +1,3 @@
-System.out.println("test java");
+public class G{
+	System.out.println("test java");
+}
